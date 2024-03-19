@@ -1,3 +1,8 @@
+'''
+https://projecteuler.net/problem=76
+'''
+
+
 def solucion(N):
 
     soluciones = 0
